@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask related files
+instance/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/

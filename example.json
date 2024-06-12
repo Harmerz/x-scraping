@@ -1,0 +1,1199 @@
+{
+  "context": {
+    "title": "Testing1",
+    "total_results": "0"
+  },
+  "cursor": {
+    "currentPageIndex": 0,
+    "estimatedResultCount": "281000",
+    "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=kompascom&lr=&safe=off&sort=date&filter=0&gl=&cr=&as_sitesearch=&as_oq=&cx=70b71d1f848434f92&start=0",
+    "pages": [
+      {
+        "label": 1,
+        "start": "0"
+      },
+      {
+        "label": 2,
+        "start": "10"
+      },
+      {
+        "label": 3,
+        "start": "20"
+      },
+      {
+        "label": 4,
+        "start": "30"
+      },
+      {
+        "label": 5,
+        "start": "40"
+      },
+      {
+        "label": 6,
+        "start": "50"
+      },
+      {
+        "label": 7,
+        "start": "60"
+      },
+      {
+        "label": 8,
+        "start": "70"
+      },
+      {
+        "label": 9,
+        "start": "80"
+      },
+      {
+        "label": 10,
+        "start": "90"
+      }
+    ],
+    "resultCount": "281,000",
+    "searchResultTime": "0.45"
+  },
+  "findMoreOnGoogle": {
+    "url": "https://www.google.com/search?client=ms-google-coop&q=kompascom&cx=70b71d1f848434f92"
+  },
+  "results": [
+    {
+      "breadcrumbUrl": {
+        "crumbs": [
+          "kompascom",
+          "status"
+        ],
+        "host": "twitter.com"
+      },
+      "cacheUrl": "http://www.google.com/search?q=cache:lxPIBXEfLv0J:twitter.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=70b71d1f848434f92&q=https://twitter.com/kompascom/status/1758313803127959872&sa=U&ved=2ahUKEwiYk4Smnq-EAxVM4zgGHaGOCh8QFnoECAgQAg&usg=AOvVaw06MwtUv1v85hkuCQQmZC0O",
+      "content": "4 jam yang lalu <b>...</b> <b>Kompas.com</b> &middot; @<b>kompascom</b>. Minum teh memang nikmat dan bisa bikin sehat. Namun, sebaiknya hindari 6 hal ini apabila minum teh. Translate post.",
+      "contentNoFormatting": "4 jam yang lalu ... Kompas.com · @kompascom. Minum teh memang nikmat dan bisa bikin sehat. Namun, sebaiknya hindari 6 hal ini apabila minum teh. Translate post.",
+      "formattedUrl": "https://twitter.com/<b>kompascom</b>/status/1758313803127959872",
+      "richSnippet": {
+        "collection": {
+          "name": "Post with replies"
+        },
+        "creativework": {
+          "name": "Expanded Tweet URLs",
+          "url": "https://t.co/zMeWaGMZNf"
+        },
+        "cseImage": {
+          "src": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg"
+        },
+        "cseThumbnail": {
+          "height": "200",
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy3DKTHivzdde7rjafFJXAC_ek-wt3NI7X0oXwN1zBf8BZwdUQpvTNNX4",
+          "width": "200"
+        },
+        "interactioncounter": [
+          {
+            "interactiontype": "https://schema.org/FollowAction",
+            "name": "Likes",
+            "userinteractioncount": "8607492"
+          },
+          {
+            "interactiontype": "https://schema.org/SubscribeAction",
+            "name": "Retweets",
+            "userinteractioncount": "29"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Quotes",
+            "userinteractioncount": "2482141"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/kompascom/status/1758313803127959872/likes",
+            "userinteractioncount": "1"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/kompascom/status/1758313803127959872/retweets",
+            "userinteractioncount": "1"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/kompascom/status/1758313803127959872/retweets/with_comments",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/kompascom/status/1758313803127959872",
+            "userinteractioncount": "0"
+          }
+        ],
+        "metatags": {
+          "alAndroidAppName": "X",
+          "alAndroidPackage": "com.twitter.android",
+          "alAndroidUrl": "twitter://status?id=1758313803127959872",
+          "alIosAppName": "X",
+          "alIosAppStoreId": "333903271",
+          "alIosUrl": "twitter://status?id=1758313803127959872",
+          "appleMobileWebAppStatusBarStyle": "white",
+          "appleMobileWebAppTitle": "Twitter",
+          "facebookDomainVerification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+          "fbAppId": "2231777543",
+          "mobileWebAppCapable": "yes",
+          "ogDescription": "Minum teh memang nikmat dan bisa bikin sehat. Namun, sebaiknya hindari 6 hal ini apabila minum teh. https://t.co/zMeWaGMZNf",
+          "ogImage": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg",
+          "ogSiteName": "X (formerly Twitter)",
+          "ogTitle": "Kompas.com (@kompascom) on X",
+          "ogType": "article",
+          "ogUrl": "https://twitter.com/kompascom/status/1758313803127959872",
+          "themeColor": "#FFFFFF",
+          "title": "Kompas.com (@kompascom) on X",
+          "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover"
+        },
+        "person": {
+          "additionalname": "kompascom",
+          "givenname": "Kompas.com",
+          "identifier": "23343960"
+        },
+        "socialmediaposting": {
+          "articlebody": "Minum teh memang nikmat dan bisa bikin sehat. Namun, sebaiknya hindari 6 hal ini apabila minum teh.Translate post",
+          "commentcount": "0",
+          "datecreated": "2024-02-16T02:14:13.000Z",
+          "datepublished": "2024-02-16T02:14:13.000Z",
+          "identifier": "1758313803127959872",
+          "mainentityofpage": "https://twitter.com/kompascom/status/1758313803127959872",
+          "position": "1",
+          "url": "https://twitter.com/kompascom/status/1758313803127959872"
+        }
+      },
+      "title": "<b>Kompas.com</b> on X: &quot;Minum teh memang nikmat dan bisa bikin sehat ...",
+      "titleNoFormatting": "Kompas.com on X: \"Minum teh memang nikmat dan bisa bikin sehat ...",
+      "unescapedUrl": "https://twitter.com/kompascom/status/1758313803127959872",
+      "url": "https://twitter.com/kompascom/status/1758313803127959872",
+      "visibleUrl": "twitter.com"
+    },
+    {
+      "breadcrumbUrl": {
+        "crumbs": [
+          "kompascom",
+          "status"
+        ],
+        "host": "twitter.com"
+      },
+      "cacheUrl": "http://www.google.com/search?q=cache:7Fzfwl0NhvcJ:twitter.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=70b71d1f848434f92&q=https://twitter.com/kompascom/status/1758348618984231046&sa=U&ved=2ahUKEwiYk4Smnq-EAxVM4zgGHaGOCh8QFnoECAkQAg&usg=AOvVaw3W_QH2JXIzvxVfMf0IO8WQ",
+      "content": "2 jam yang lalu <b>...</b> <b>Kompas.com</b> &middot; @<b>kompascom</b>. Sebanyak tiga kue Indonesia masuk daftar pancake terenak di dunia versi Taste Atlas 2024. Simak info lengkapnya&nbsp;...",
+      "contentNoFormatting": "2 jam yang lalu ... Kompas.com · @kompascom. Sebanyak tiga kue Indonesia masuk daftar pancake terenak di dunia versi Taste Atlas 2024. Simak info lengkapnya ...",
+      "formattedUrl": "https://twitter.com/<b>kompascom</b>/status/1758348618984231046",
+      "richSnippet": {
+        "collection": {
+          "name": "Post with replies"
+        },
+        "creativework": {
+          "name": "Expanded Tweet URLs",
+          "url": "https://t.co/3Z60HC3Q3x"
+        },
+        "cseImage": {
+          "src": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg"
+        },
+        "cseThumbnail": {
+          "height": "200",
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy3DKTHivzdde7rjafFJXAC_ek-wt3NI7X0oXwN1zBf8BZwdUQpvTNNX4",
+          "width": "200"
+        },
+        "interactioncounter": [
+          {
+            "interactiontype": "https://schema.org/FollowAction",
+            "name": "Likes",
+            "userinteractioncount": "8607688"
+          },
+          {
+            "interactiontype": "https://schema.org/SubscribeAction",
+            "name": "Retweets",
+            "userinteractioncount": "29"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Quotes",
+            "userinteractioncount": "2482277"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/kompascom/status/1758348618984231046/likes",
+            "userinteractioncount": "1"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/kompascom/status/1758348618984231046/retweets",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/kompascom/status/1758348618984231046/retweets/with_comments",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/kompascom/status/1758348618984231046",
+            "userinteractioncount": "0"
+          }
+        ],
+        "metatags": {
+          "alAndroidAppName": "X",
+          "alAndroidPackage": "com.twitter.android",
+          "alAndroidUrl": "twitter://status?id=1758348618984231046",
+          "alIosAppName": "X",
+          "alIosAppStoreId": "333903271",
+          "alIosUrl": "twitter://status?id=1758348618984231046",
+          "appleMobileWebAppStatusBarStyle": "white",
+          "appleMobileWebAppTitle": "Twitter",
+          "facebookDomainVerification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+          "fbAppId": "2231777543",
+          "mobileWebAppCapable": "yes",
+          "ogDescription": "Sebanyak tiga kue Indonesia masuk daftar pancake terenak di dunia versi Taste Atlas 2024. Simak info lengkapnya berikut ini. https://t.co/3Z60HC3Q3x",
+          "ogImage": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg",
+          "ogSiteName": "X (formerly Twitter)",
+          "ogTitle": "Kompas.com (@kompascom) on X",
+          "ogType": "article",
+          "ogUrl": "https://twitter.com/kompascom/status/1758348618984231046",
+          "themeColor": "#FFFFFF",
+          "title": "Kompas.com (@kompascom) on X",
+          "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover"
+        },
+        "person": {
+          "additionalname": "kompascom",
+          "givenname": "Kompas.com",
+          "identifier": "23343960"
+        },
+        "socialmediaposting": {
+          "articlebody": "Sebanyak tiga kue Indonesia masuk daftar pancake terenak di dunia versi Taste Atlas 2024. Simak info lengkapnya berikut ini.Translate post",
+          "commentcount": "0",
+          "datecreated": "2024-02-16T04:32:33.000Z",
+          "datepublished": "2024-02-16T04:32:33.000Z",
+          "identifier": "1758348618984231046",
+          "mainentityofpage": "https://twitter.com/kompascom/status/1758348618984231046",
+          "position": "1",
+          "url": "https://twitter.com/kompascom/status/1758348618984231046"
+        }
+      },
+      "title": "<b>Kompas.com</b> on X: &quot;Sebanyak tiga kue Indonesia masuk daftar ...",
+      "titleNoFormatting": "Kompas.com on X: \"Sebanyak tiga kue Indonesia masuk daftar ...",
+      "unescapedUrl": "https://twitter.com/kompascom/status/1758348618984231046",
+      "url": "https://twitter.com/kompascom/status/1758348618984231046",
+      "visibleUrl": "twitter.com"
+    },
+    {
+      "breadcrumbUrl": {
+        "crumbs": [
+          "kompascom",
+          "status"
+        ],
+        "host": "twitter.com"
+      },
+      "cacheUrl": "http://www.google.com/search?q=cache:KD7g4d7e4-8J:twitter.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=70b71d1f848434f92&q=https://twitter.com/kompascom/status/1758349382825766988&sa=U&ved=2ahUKEwiYk4Smnq-EAxVM4zgGHaGOCh8QFnoECAQQAg&usg=AOvVaw1QldkG-spfg6MChWzx2gU4",
+      "content": "2 jam yang lalu <b>...</b> <b>Kompas.com</b> &middot; @<b>kompascom</b>. Menurut Isnaini, Jokowi effect selama ini selalu dilihat minor. Padahal, kata dia, Jokowi effect juga berkaitan erat&nbsp;...",
+      "contentNoFormatting": "2 jam yang lalu ... Kompas.com · @kompascom. Menurut Isnaini, Jokowi effect selama ini selalu dilihat minor. Padahal, kata dia, Jokowi effect juga berkaitan erat ...",
+      "formattedUrl": "https://twitter.com/<b>kompascom</b>/status/1758349382825766988",
+      "richSnippet": {
+        "collection": {
+          "name": "Post with replies"
+        },
+        "creativework": {
+          "name": "Expanded Tweet URLs",
+          "url": "https://t.co/R3uNle3RYC"
+        },
+        "cseImage": {
+          "src": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg"
+        },
+        "cseThumbnail": {
+          "height": "200",
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy3DKTHivzdde7rjafFJXAC_ek-wt3NI7X0oXwN1zBf8BZwdUQpvTNNX4",
+          "width": "200"
+        },
+        "interactioncounter": [
+          {
+            "interactiontype": "https://schema.org/FollowAction",
+            "name": "Likes",
+            "userinteractioncount": "8607689"
+          },
+          {
+            "interactiontype": "https://schema.org/SubscribeAction",
+            "name": "Retweets",
+            "userinteractioncount": "29"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Quotes",
+            "userinteractioncount": "2482277"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/kompascom/status/1758349382825766988/likes",
+            "userinteractioncount": "1"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/kompascom/status/1758349382825766988/retweets",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/kompascom/status/1758349382825766988/retweets/with_comments",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/kompascom/status/1758349382825766988",
+            "userinteractioncount": "0"
+          }
+        ],
+        "metatags": {
+          "alAndroidAppName": "X",
+          "alAndroidPackage": "com.twitter.android",
+          "alAndroidUrl": "twitter://status?id=1758349382825766988",
+          "alIosAppName": "X",
+          "alIosAppStoreId": "333903271",
+          "alIosUrl": "twitter://status?id=1758349382825766988",
+          "appleMobileWebAppStatusBarStyle": "white",
+          "appleMobileWebAppTitle": "Twitter",
+          "facebookDomainVerification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+          "fbAppId": "2231777543",
+          "mobileWebAppCapable": "yes",
+          "ogDescription": "Menurut Isnaini, Jokowi effect selama ini selalu dilihat minor. Padahal, kata dia, Jokowi effect juga berkaitan erat dengan kerja-kerja relawan. https://t.co/R3uNle3RYC",
+          "ogImage": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg",
+          "ogSiteName": "X (formerly Twitter)",
+          "ogTitle": "Kompas.com (@kompascom) on X",
+          "ogType": "article",
+          "ogUrl": "https://twitter.com/kompascom/status/1758349382825766988",
+          "themeColor": "#FFFFFF",
+          "title": "Kompas.com (@kompascom) on X",
+          "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover"
+        },
+        "person": {
+          "additionalname": "kompascom",
+          "givenname": "Kompas.com",
+          "identifier": "23343960"
+        },
+        "socialmediaposting": {
+          "articlebody": "Menurut Isnaini, Jokowi effect selama ini selalu dilihat minor. Padahal, kata dia, Jokowi effect juga berkaitan erat dengan kerja-kerja relawan.Translate post",
+          "commentcount": "0",
+          "datecreated": "2024-02-16T04:35:36.000Z",
+          "datepublished": "2024-02-16T04:35:36.000Z",
+          "identifier": "1758349382825766988",
+          "mainentityofpage": "https://twitter.com/kompascom/status/1758349382825766988",
+          "position": "1",
+          "url": "https://twitter.com/kompascom/status/1758349382825766988"
+        }
+      },
+      "title": "<b>Kompas.com</b> on X: &quot;Menurut Isnaini, Jokowi effect selama ini selalu ...",
+      "titleNoFormatting": "Kompas.com on X: \"Menurut Isnaini, Jokowi effect selama ini selalu ...",
+      "unescapedUrl": "https://twitter.com/kompascom/status/1758349382825766988",
+      "url": "https://twitter.com/kompascom/status/1758349382825766988",
+      "visibleUrl": "twitter.com"
+    },
+    {
+      "breadcrumbUrl": {
+        "crumbs": [
+          "kompascom",
+          "status"
+        ],
+        "host": "twitter.com"
+      },
+      "cacheUrl": "http://www.google.com/search?q=cache:dwQ2l2WjG-8J:twitter.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=70b71d1f848434f92&q=https://twitter.com/kompascom/status/1758314532475416874&sa=U&ved=2ahUKEwiYk4Smnq-EAxVM4zgGHaGOCh8QFnoECAEQAg&usg=AOvVaw3CyR5vS9wYROTRXEt5cOFs",
+      "content": "4 jam yang lalu <b>...</b> <b>Kompas.com</b> &middot; @<b>kompascom</b>. Kemenlu RI memastikan, hingga saat ini tidak terdapat informasi adanya WNI yang menjadi korban insiden penembakan&nbsp;...",
+      "contentNoFormatting": "4 jam yang lalu ... Kompas.com · @kompascom. Kemenlu RI memastikan, hingga saat ini tidak terdapat informasi adanya WNI yang menjadi korban insiden penembakan ...",
+      "formattedUrl": "https://twitter.com/<b>kompascom</b>/status/1758314532475416874",
+      "richSnippet": {
+        "collection": {
+          "name": "Post with replies"
+        },
+        "creativework": {
+          "name": "Expanded Tweet URLs",
+          "url": "https://t.co/s6SGV0tPeP"
+        },
+        "cseImage": {
+          "src": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg"
+        },
+        "cseThumbnail": {
+          "height": "200",
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy3DKTHivzdde7rjafFJXAC_ek-wt3NI7X0oXwN1zBf8BZwdUQpvTNNX4",
+          "width": "200"
+        },
+        "interactioncounter": [
+          {
+            "interactiontype": "https://schema.org/FollowAction",
+            "name": "Likes",
+            "userinteractioncount": "8607495"
+          },
+          {
+            "interactiontype": "https://schema.org/SubscribeAction",
+            "name": "Retweets",
+            "userinteractioncount": "29"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Quotes",
+            "userinteractioncount": "2482145"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/kompascom/status/1758314532475416874/likes",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/kompascom/status/1758314532475416874/retweets",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/kompascom/status/1758314532475416874/retweets/with_comments",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/kompascom/status/1758314532475416874",
+            "userinteractioncount": "0"
+          }
+        ],
+        "metatags": {
+          "alAndroidAppName": "X",
+          "alAndroidPackage": "com.twitter.android",
+          "alAndroidUrl": "twitter://status?id=1758314532475416874",
+          "alIosAppName": "X",
+          "alIosAppStoreId": "333903271",
+          "alIosUrl": "twitter://status?id=1758314532475416874",
+          "appleMobileWebAppStatusBarStyle": "white",
+          "appleMobileWebAppTitle": "Twitter",
+          "facebookDomainVerification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+          "fbAppId": "2231777543",
+          "mobileWebAppCapable": "yes",
+          "ogDescription": "Kemenlu RI memastikan, hingga saat ini tidak terdapat informasi adanya WNI yang menjadi korban insiden penembakan massal di Kansas City. https://t.co/s6SGV0tPeP",
+          "ogImage": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg",
+          "ogSiteName": "X (formerly Twitter)",
+          "ogTitle": "Kompas.com (@kompascom) on X",
+          "ogType": "article",
+          "ogUrl": "https://twitter.com/kompascom/status/1758314532475416874",
+          "themeColor": "#FFFFFF",
+          "title": "Kompas.com (@kompascom) on X",
+          "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover"
+        },
+        "person": {
+          "additionalname": "kompascom",
+          "givenname": "Kompas.com",
+          "identifier": "23343960"
+        },
+        "socialmediaposting": {
+          "articlebody": "Kemenlu RI memastikan, hingga saat ini tidak terdapat informasi adanya WNI yang menjadi korban insiden penembakan massal di Kansas City.Translate post",
+          "commentcount": "0",
+          "datecreated": "2024-02-16T02:17:07.000Z",
+          "datepublished": "2024-02-16T02:17:07.000Z",
+          "identifier": "1758314532475416874",
+          "mainentityofpage": "https://twitter.com/kompascom/status/1758314532475416874",
+          "position": "1",
+          "url": "https://twitter.com/kompascom/status/1758314532475416874"
+        }
+      },
+      "title": "<b>Kompas.com</b> on X: &quot;Kemenlu RI memastikan, hingga saat ini tidak ...",
+      "titleNoFormatting": "Kompas.com on X: \"Kemenlu RI memastikan, hingga saat ini tidak ...",
+      "unescapedUrl": "https://twitter.com/kompascom/status/1758314532475416874",
+      "url": "https://twitter.com/kompascom/status/1758314532475416874",
+      "visibleUrl": "twitter.com"
+    },
+    {
+      "breadcrumbUrl": {
+        "crumbs": [
+          "kompascom",
+          "status"
+        ],
+        "host": "twitter.com"
+      },
+      "cacheUrl": "http://www.google.com/search?q=cache:uM1ZcWiWEuwJ:twitter.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=70b71d1f848434f92&q=https://twitter.com/kompascom/status/1758317312715984965&sa=U&ved=2ahUKEwiYk4Smnq-EAxVM4zgGHaGOCh8QFnoECAUQAg&usg=AOvVaw0N6S7ykPv2HVwdtx5WAIMM",
+      "content": "4 jam yang lalu <b>...</b> <b>Kompas.com</b> &middot; @<b>kompascom</b>. Sebelum ditunjuk sebagai Direktur Keuangan PGEO, Yurizki tercatat menjabat sebagai Director Head of Investment Banking&nbsp;...",
+      "contentNoFormatting": "4 jam yang lalu ... Kompas.com · @kompascom. Sebelum ditunjuk sebagai Direktur Keuangan PGEO, Yurizki tercatat menjabat sebagai Director Head of Investment Banking ...",
+      "formattedUrl": "https://twitter.com/<b>kompascom</b>/status/1758317312715984965",
+      "richSnippet": {
+        "collection": {
+          "name": "Post with replies"
+        },
+        "creativework": {
+          "name": "Expanded Tweet URLs",
+          "url": "https://t.co/7Vi4kOGbUL"
+        },
+        "cseImage": {
+          "src": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg"
+        },
+        "cseThumbnail": {
+          "height": "200",
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy3DKTHivzdde7rjafFJXAC_ek-wt3NI7X0oXwN1zBf8BZwdUQpvTNNX4",
+          "width": "200"
+        },
+        "interactioncounter": [
+          {
+            "interactiontype": "https://schema.org/FollowAction",
+            "name": "Likes",
+            "userinteractioncount": "8607495"
+          },
+          {
+            "interactiontype": "https://schema.org/SubscribeAction",
+            "name": "Retweets",
+            "userinteractioncount": "29"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Quotes",
+            "userinteractioncount": "2482145"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/kompascom/status/1758317312715984965/likes",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/kompascom/status/1758317312715984965/retweets",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/kompascom/status/1758317312715984965/retweets/with_comments",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/kompascom/status/1758317312715984965",
+            "userinteractioncount": "0"
+          }
+        ],
+        "metatags": {
+          "alAndroidAppName": "X",
+          "alAndroidPackage": "com.twitter.android",
+          "alAndroidUrl": "twitter://status?id=1758317312715984965",
+          "alIosAppName": "X",
+          "alIosAppStoreId": "333903271",
+          "alIosUrl": "twitter://status?id=1758317312715984965",
+          "appleMobileWebAppStatusBarStyle": "white",
+          "appleMobileWebAppTitle": "Twitter",
+          "facebookDomainVerification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+          "fbAppId": "2231777543",
+          "mobileWebAppCapable": "yes",
+          "ogDescription": "Sebelum ditunjuk sebagai Direktur Keuangan PGEO, Yurizki tercatat menjabat sebagai Director Head of Investment Banking Advisory/M&amp;A PT BNI Sekuritas. https://t.co/7Vi4kOGbUL",
+          "ogImage": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg",
+          "ogSiteName": "X (formerly Twitter)",
+          "ogTitle": "Kompas.com (@kompascom) on X",
+          "ogType": "article",
+          "ogUrl": "https://twitter.com/kompascom/status/1758317312715984965",
+          "themeColor": "#FFFFFF",
+          "title": "Kompas.com (@kompascom) on X",
+          "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover"
+        },
+        "person": {
+          "additionalname": "kompascom",
+          "givenname": "Kompas.com",
+          "identifier": "23343960"
+        },
+        "socialmediaposting": {
+          "articlebody": "Sebelum ditunjuk sebagai Direktur Keuangan PGEO, Yurizki tercatat menjabat sebagai Director Head of Investment Banking Advisory/M&A PT BNI Sekuritas.Translate post",
+          "commentcount": "0",
+          "datecreated": "2024-02-16T02:28:09.000Z",
+          "datepublished": "2024-02-16T02:28:09.000Z",
+          "identifier": "1758317312715984965",
+          "mainentityofpage": "https://twitter.com/kompascom/status/1758317312715984965",
+          "position": "1",
+          "url": "https://twitter.com/kompascom/status/1758317312715984965"
+        }
+      },
+      "title": "<b>Kompas.com</b> on X: &quot;Sebelum ditunjuk sebagai Direktur Keuangan ...",
+      "titleNoFormatting": "Kompas.com on X: \"Sebelum ditunjuk sebagai Direktur Keuangan ...",
+      "unescapedUrl": "https://twitter.com/kompascom/status/1758317312715984965",
+      "url": "https://twitter.com/kompascom/status/1758317312715984965",
+      "visibleUrl": "twitter.com"
+    },
+    {
+      "breadcrumbUrl": {
+        "crumbs": [
+          "kompascom",
+          "status"
+        ],
+        "host": "twitter.com"
+      },
+      "cacheUrl": "http://www.google.com/search?q=cache:bJbzi8vXa-gJ:twitter.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=70b71d1f848434f92&q=https://twitter.com/kompascom/status/1758364134893314126&sa=U&ved=2ahUKEwiYk4Smnq-EAxVM4zgGHaGOCh8QFnoECAcQAg&usg=AOvVaw3t2bPfqOP4I_Z0SgiILWil",
+      "content": "57 menit yang lalu <b>...</b> <b>Kompas.com</b> &middot; @<b>kompascom</b>. OJK merilis daftar terbaru pinjol ilegal yang telah diblokir per 13 Februari 2024. Simak daftar selengkapnya berikut&nbsp;...",
+      "contentNoFormatting": "57 menit yang lalu ... Kompas.com · @kompascom. OJK merilis daftar terbaru pinjol ilegal yang telah diblokir per 13 Februari 2024. Simak daftar selengkapnya berikut ...",
+      "formattedUrl": "https://twitter.com/<b>kompascom</b>/status/1758364134893314126",
+      "richSnippet": {
+        "collection": {
+          "name": "Post with replies"
+        },
+        "creativework": {
+          "name": "Expanded Tweet URLs",
+          "url": "https://t.co/AF6p6CaSa9"
+        },
+        "cseImage": {
+          "src": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg"
+        },
+        "cseThumbnail": {
+          "height": "200",
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy3DKTHivzdde7rjafFJXAC_ek-wt3NI7X0oXwN1zBf8BZwdUQpvTNNX4",
+          "width": "200"
+        },
+        "interactioncounter": [
+          {
+            "interactiontype": "https://schema.org/FollowAction",
+            "name": "Likes",
+            "userinteractioncount": "8607746"
+          },
+          {
+            "interactiontype": "https://schema.org/SubscribeAction",
+            "name": "Retweets",
+            "userinteractioncount": "29"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Quotes",
+            "userinteractioncount": "2482327"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/kompascom/status/1758364134893314126/likes",
+            "userinteractioncount": "1"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/kompascom/status/1758364134893314126/retweets",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/kompascom/status/1758364134893314126/retweets/with_comments",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/kompascom/status/1758364134893314126",
+            "userinteractioncount": "0"
+          }
+        ],
+        "metatags": {
+          "alAndroidAppName": "X",
+          "alAndroidPackage": "com.twitter.android",
+          "alAndroidUrl": "twitter://status?id=1758364134893314126",
+          "alIosAppName": "X",
+          "alIosAppStoreId": "333903271",
+          "alIosUrl": "twitter://status?id=1758364134893314126",
+          "appleMobileWebAppStatusBarStyle": "white",
+          "appleMobileWebAppTitle": "Twitter",
+          "facebookDomainVerification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+          "fbAppId": "2231777543",
+          "mobileWebAppCapable": "yes",
+          "ogDescription": "OJK merilis daftar terbaru pinjol ilegal yang telah diblokir per 13 Februari 2024. Simak daftar selengkapnya berikut ini. https://t.co/AF6p6CaSa9",
+          "ogImage": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg",
+          "ogSiteName": "X (formerly Twitter)",
+          "ogTitle": "Kompas.com (@kompascom) on X",
+          "ogType": "article",
+          "ogUrl": "https://twitter.com/kompascom/status/1758364134893314126",
+          "themeColor": "#FFFFFF",
+          "title": "Kompas.com (@kompascom) on X",
+          "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover"
+        },
+        "person": {
+          "additionalname": "kompascom",
+          "givenname": "Kompas.com",
+          "identifier": "23343960"
+        },
+        "socialmediaposting": {
+          "articlebody": "OJK merilis daftar terbaru pinjol ilegal yang telah diblokir per 13 Februari 2024. Simak daftar selengkapnya berikut ini.Translate post",
+          "commentcount": "0",
+          "datecreated": "2024-02-16T05:34:13.000Z",
+          "datepublished": "2024-02-16T05:34:13.000Z",
+          "identifier": "1758364134893314126",
+          "mainentityofpage": "https://twitter.com/kompascom/status/1758364134893314126",
+          "position": "1",
+          "url": "https://twitter.com/kompascom/status/1758364134893314126"
+        }
+      },
+      "title": "<b>Kompas.com</b> on X: &quot;OJK merilis daftar terbaru pinjol ilegal yang ...",
+      "titleNoFormatting": "Kompas.com on X: \"OJK merilis daftar terbaru pinjol ilegal yang ...",
+      "unescapedUrl": "https://twitter.com/kompascom/status/1758364134893314126",
+      "url": "https://twitter.com/kompascom/status/1758364134893314126",
+      "visibleUrl": "twitter.com"
+    },
+    {
+      "breadcrumbUrl": {
+        "crumbs": [
+          "kompascom",
+          "status"
+        ],
+        "host": "twitter.com"
+      },
+      "cacheUrl": "http://www.google.com/search?q=cache:0k8P3NqSgOcJ:twitter.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=70b71d1f848434f92&q=https://twitter.com/kompascom/status/1758296286552596848&sa=U&ved=2ahUKEwiYk4Smnq-EAxVM4zgGHaGOCh8QFnoECAAQAg&usg=AOvVaw2u15gakNP3PTE75h_MsXF-",
+      "content": "5 jam yang lalu <b>...</b> <b>Kompas.com</b> &middot; @<b>kompascom</b>. KIP Kuliah ditujukkan untuk membantu siswa dengan komitmen belajar tinggi dan ingin melanjutkan kuliah namun memiliki&nbsp;...",
+      "contentNoFormatting": "5 jam yang lalu ... Kompas.com · @kompascom. KIP Kuliah ditujukkan untuk membantu siswa dengan komitmen belajar tinggi dan ingin melanjutkan kuliah namun memiliki ...",
+      "formattedUrl": "https://twitter.com/<b>kompascom</b>/status/1758296286552596848",
+      "richSnippet": {
+        "collection": {
+          "name": "Post with replies"
+        },
+        "creativework": {
+          "name": "Expanded Tweet URLs",
+          "url": "https://t.co/zOgU9T97kJ"
+        },
+        "cseImage": {
+          "src": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg"
+        },
+        "cseThumbnail": {
+          "height": "200",
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy3DKTHivzdde7rjafFJXAC_ek-wt3NI7X0oXwN1zBf8BZwdUQpvTNNX4",
+          "width": "200"
+        },
+        "interactioncounter": [
+          {
+            "interactiontype": "https://schema.org/FollowAction",
+            "name": "Likes",
+            "userinteractioncount": "8607456"
+          },
+          {
+            "interactiontype": "https://schema.org/SubscribeAction",
+            "name": "Retweets",
+            "userinteractioncount": "29"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Quotes",
+            "userinteractioncount": "2482108"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/kompascom/status/1758296286552596848/likes",
+            "userinteractioncount": "2"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/kompascom/status/1758296286552596848/retweets",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/kompascom/status/1758296286552596848/retweets/with_comments",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/kompascom/status/1758296286552596848",
+            "userinteractioncount": "1"
+          }
+        ],
+        "metatags": {
+          "alAndroidAppName": "X",
+          "alAndroidPackage": "com.twitter.android",
+          "alAndroidUrl": "twitter://status?id=1758296286552596848",
+          "alIosAppName": "X",
+          "alIosAppStoreId": "333903271",
+          "alIosUrl": "twitter://status?id=1758296286552596848",
+          "appleMobileWebAppStatusBarStyle": "white",
+          "appleMobileWebAppTitle": "Twitter",
+          "facebookDomainVerification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+          "fbAppId": "2231777543",
+          "mobileWebAppCapable": "yes",
+          "ogDescription": "KIP Kuliah ditujukkan untuk membantu siswa dengan komitmen belajar tinggi dan ingin melanjutkan kuliah namun memiliki keterbatasan ekonomi. https://t.co/zOgU9T97kJ",
+          "ogImage": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg",
+          "ogSiteName": "X (formerly Twitter)",
+          "ogTitle": "Kompas.com (@kompascom) on X",
+          "ogType": "article",
+          "ogUrl": "https://twitter.com/kompascom/status/1758296286552596848",
+          "themeColor": "#FFFFFF",
+          "title": "Kompas.com (@kompascom) on X",
+          "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover"
+        },
+        "person": {
+          "additionalname": "kompascom",
+          "givenname": "Kompas.com",
+          "identifier": "23343960"
+        },
+        "socialmediaposting": {
+          "articlebody": "KIP Kuliah ditujukkan untuk membantu siswa dengan komitmen belajar tinggi dan ingin melanjutkan kuliah namun memiliki keterbatasan ekonomi.Translate post",
+          "commentcount": "1",
+          "datecreated": "2024-02-16T01:04:36.000Z",
+          "datepublished": "2024-02-16T01:04:36.000Z",
+          "identifier": "1758296286552596848",
+          "mainentityofpage": "https://twitter.com/kompascom/status/1758296286552596848",
+          "position": "1",
+          "url": "https://twitter.com/kompascom/status/1758296286552596848"
+        }
+      },
+      "title": "<b>Kompas.com</b> on X: &quot;KIP Kuliah ditujukkan untuk membantu siswa ...",
+      "titleNoFormatting": "Kompas.com on X: \"KIP Kuliah ditujukkan untuk membantu siswa ...",
+      "unescapedUrl": "https://twitter.com/kompascom/status/1758296286552596848",
+      "url": "https://twitter.com/kompascom/status/1758296286552596848",
+      "visibleUrl": "twitter.com"
+    },
+    {
+      "breadcrumbUrl": {
+        "crumbs": [
+          "kompascom",
+          "status"
+        ],
+        "host": "twitter.com"
+      },
+      "cacheUrl": "http://www.google.com/search?q=cache:qvlWQc5BEecJ:twitter.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=70b71d1f848434f92&q=https://twitter.com/kompascom/status/1758364475617661209&sa=U&ved=2ahUKEwiYk4Smnq-EAxVM4zgGHaGOCh8QFnoECAIQAg&usg=AOvVaw0fcz6cDPfg4I7Fsr3yLq6J",
+      "content": "56 menit yang lalu <b>...</b> <b>Kompas.com</b> &middot; @<b>kompascom</b> &middot; Sempat Minta Dijadwal Ulang, Akhirnya Bupati Sidoarjo Penuhi Panggilan KPK &middot; From kgnow.com &middot; 5:35&nbsp;...",
+      "contentNoFormatting": "56 menit yang lalu ... Kompas.com · @kompascom · Sempat Minta Dijadwal Ulang, Akhirnya Bupati Sidoarjo Penuhi Panggilan KPK · From kgnow.com · 5:35 ...",
+      "formattedUrl": "https://twitter.com/<b>kompascom</b>/status/1758364475617661209",
+      "richSnippet": {
+        "collection": {
+          "name": "Post with replies"
+        },
+        "creativework": {
+          "name": "Expanded Tweet URLs",
+          "url": "https://t.co/TRoVhCdBM8"
+        },
+        "cseImage": {
+          "src": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg"
+        },
+        "cseThumbnail": {
+          "height": "200",
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy3DKTHivzdde7rjafFJXAC_ek-wt3NI7X0oXwN1zBf8BZwdUQpvTNNX4",
+          "width": "200"
+        },
+        "interactioncounter": [
+          {
+            "interactiontype": "https://schema.org/FollowAction",
+            "name": "Likes",
+            "userinteractioncount": "8607743"
+          },
+          {
+            "interactiontype": "https://schema.org/SubscribeAction",
+            "name": "Retweets",
+            "userinteractioncount": "29"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Quotes",
+            "userinteractioncount": "2482326"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/kompascom/status/1758364475617661209/likes",
+            "userinteractioncount": "1"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/kompascom/status/1758364475617661209/retweets",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/kompascom/status/1758364475617661209/retweets/with_comments",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/kompascom/status/1758364475617661209",
+            "userinteractioncount": "0"
+          }
+        ],
+        "metatags": {
+          "alAndroidAppName": "X",
+          "alAndroidPackage": "com.twitter.android",
+          "alAndroidUrl": "twitter://status?id=1758364475617661209",
+          "alIosAppName": "X",
+          "alIosAppStoreId": "333903271",
+          "alIosUrl": "twitter://status?id=1758364475617661209",
+          "appleMobileWebAppStatusBarStyle": "white",
+          "appleMobileWebAppTitle": "Twitter",
+          "facebookDomainVerification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+          "fbAppId": "2231777543",
+          "mobileWebAppCapable": "yes",
+          "ogDescription": "https://t.co/TRoVhCdBM8",
+          "ogImage": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg",
+          "ogSiteName": "X (formerly Twitter)",
+          "ogTitle": "Kompas.com (@kompascom) on X",
+          "ogType": "article",
+          "ogUrl": "https://twitter.com/kompascom/status/1758364475617661209",
+          "themeColor": "#FFFFFF",
+          "title": "Kompas.com (@kompascom) on X",
+          "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover"
+        },
+        "person": {
+          "additionalname": "kompascom",
+          "givenname": "Kompas.com",
+          "identifier": "23343960"
+        },
+        "socialmediaposting": {
+          "commentcount": "0",
+          "datecreated": "2024-02-16T05:35:34.000Z",
+          "datepublished": "2024-02-16T05:35:34.000Z",
+          "identifier": "1758364475617661209",
+          "mainentityofpage": "https://twitter.com/kompascom/status/1758364475617661209",
+          "position": "1",
+          "url": "https://twitter.com/kompascom/status/1758364475617661209"
+        }
+      },
+      "title": "<b>Kompas.com</b> on X: &quot;https://t.co/TRoVhCdBM8&quot; / X",
+      "titleNoFormatting": "Kompas.com on X: \"https://t.co/TRoVhCdBM8\" / X",
+      "unescapedUrl": "https://twitter.com/kompascom/status/1758364475617661209",
+      "url": "https://twitter.com/kompascom/status/1758364475617661209",
+      "visibleUrl": "twitter.com"
+    },
+    {
+      "breadcrumbUrl": {
+        "crumbs": [
+          "kompascom",
+          "status"
+        ],
+        "host": "twitter.com"
+      },
+      "cacheUrl": "http://www.google.com/search?q=cache:lx-7oYOSKtoJ:twitter.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=70b71d1f848434f92&q=https://twitter.com/kompascom/status/1758315402629968198&sa=U&ved=2ahUKEwiYk4Smnq-EAxVM4zgGHaGOCh8QFnoECAMQAg&usg=AOvVaw0wvnr9VIiZWlOPaPs4twvq",
+      "content": "4 jam yang lalu <b>...</b> <b>Kompas.com</b> &middot; @<b>kompascom</b>. Seorang santri senior berinisial AF (19) melakukan penganiayaan dengan setrika terhadap adik tingkatnya pada 4&nbsp;...",
+      "contentNoFormatting": "4 jam yang lalu ... Kompas.com · @kompascom. Seorang santri senior berinisial AF (19) melakukan penganiayaan dengan setrika terhadap adik tingkatnya pada 4 ...",
+      "formattedUrl": "https://twitter.com/<b>kompascom</b>/status/1758315402629968198",
+      "richSnippet": {
+        "collection": {
+          "name": "Post with replies"
+        },
+        "creativework": {
+          "name": "Expanded Tweet URLs",
+          "url": "https://t.co/ASniDfVRhX"
+        },
+        "cseImage": {
+          "src": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg"
+        },
+        "cseThumbnail": {
+          "height": "200",
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy3DKTHivzdde7rjafFJXAC_ek-wt3NI7X0oXwN1zBf8BZwdUQpvTNNX4",
+          "width": "200"
+        },
+        "interactioncounter": [
+          {
+            "interactiontype": "https://schema.org/FollowAction",
+            "name": "Likes",
+            "userinteractioncount": "8607496"
+          },
+          {
+            "interactiontype": "https://schema.org/SubscribeAction",
+            "name": "Retweets",
+            "userinteractioncount": "29"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Quotes",
+            "userinteractioncount": "2482145"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/kompascom/status/1758315402629968198/likes",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/kompascom/status/1758315402629968198/retweets",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/kompascom/status/1758315402629968198/retweets/with_comments",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/kompascom/status/1758315402629968198",
+            "userinteractioncount": "0"
+          }
+        ],
+        "metatags": {
+          "alAndroidAppName": "X",
+          "alAndroidPackage": "com.twitter.android",
+          "alAndroidUrl": "twitter://status?id=1758315402629968198",
+          "alIosAppName": "X",
+          "alIosAppStoreId": "333903271",
+          "alIosUrl": "twitter://status?id=1758315402629968198",
+          "appleMobileWebAppStatusBarStyle": "white",
+          "appleMobileWebAppTitle": "Twitter",
+          "facebookDomainVerification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+          "fbAppId": "2231777543",
+          "mobileWebAppCapable": "yes",
+          "ogDescription": "Seorang santri senior berinisial AF (19) melakukan penganiayaan dengan setrika terhadap adik tingkatnya pada 4 Desember 2023. https://t.co/ASniDfVRhX",
+          "ogImage": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg",
+          "ogSiteName": "X (formerly Twitter)",
+          "ogTitle": "Kompas.com (@kompascom) on X",
+          "ogType": "article",
+          "ogUrl": "https://twitter.com/kompascom/status/1758315402629968198",
+          "themeColor": "#FFFFFF",
+          "title": "Kompas.com (@kompascom) on X",
+          "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover"
+        },
+        "person": {
+          "additionalname": "kompascom",
+          "givenname": "Kompas.com",
+          "identifier": "23343960"
+        },
+        "socialmediaposting": {
+          "articlebody": "Seorang santri senior berinisial AF (19) melakukan penganiayaan dengan setrika terhadap adik tingkatnya pada 4 Desember 2023.Translate post",
+          "commentcount": "0",
+          "datecreated": "2024-02-16T02:20:34.000Z",
+          "datepublished": "2024-02-16T02:20:34.000Z",
+          "identifier": "1758315402629968198",
+          "mainentityofpage": "https://twitter.com/kompascom/status/1758315402629968198",
+          "position": "1",
+          "url": "https://twitter.com/kompascom/status/1758315402629968198"
+        }
+      },
+      "title": "<b>Kompas.com</b> on X: &quot;Seorang santri senior berinisial AF (19 ...",
+      "titleNoFormatting": "Kompas.com on X: \"Seorang santri senior berinisial AF (19 ...",
+      "unescapedUrl": "https://twitter.com/kompascom/status/1758315402629968198",
+      "url": "https://twitter.com/kompascom/status/1758315402629968198",
+      "visibleUrl": "twitter.com"
+    },
+    {
+      "breadcrumbUrl": {
+        "crumbs": [
+          "kompascom",
+          "status"
+        ],
+        "host": "twitter.com"
+      },
+      "cacheUrl": "http://www.google.com/search?q=cache:AES0rEjUGNoJ:twitter.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=70b71d1f848434f92&q=https://twitter.com/kompascom/status/1758318606172250346&sa=U&ved=2ahUKEwiYk4Smnq-EAxVM4zgGHaGOCh8QFnoECAYQAg&usg=AOvVaw3VORvZClQODDxPj71PemGR",
+      "content": "4 jam yang lalu <b>...</b> <b>Kompas.com</b> &middot; @<b>kompascom</b>. Saat melalui turunan Flyover Cengkareng, Truk gagal mengerem dan langsung menabrak empat mobil di depannya. Translate&nbsp;...",
+      "contentNoFormatting": "4 jam yang lalu ... Kompas.com · @kompascom. Saat melalui turunan Flyover Cengkareng, Truk gagal mengerem dan langsung menabrak empat mobil di depannya. Translate ...",
+      "formattedUrl": "https://twitter.com/<b>kompascom</b>/status/1758318606172250346",
+      "richSnippet": {
+        "collection": {
+          "name": "Post with replies"
+        },
+        "creativework": {
+          "name": "Expanded Tweet URLs",
+          "url": "https://t.co/erCGSb1eHR"
+        },
+        "cseImage": {
+          "src": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg"
+        },
+        "cseThumbnail": {
+          "height": "200",
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy3DKTHivzdde7rjafFJXAC_ek-wt3NI7X0oXwN1zBf8BZwdUQpvTNNX4",
+          "width": "200"
+        },
+        "interactioncounter": [
+          {
+            "interactiontype": "https://schema.org/FollowAction",
+            "name": "Likes",
+            "userinteractioncount": "8607500"
+          },
+          {
+            "interactiontype": "https://schema.org/SubscribeAction",
+            "name": "Retweets",
+            "userinteractioncount": "29"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Quotes",
+            "userinteractioncount": "2482151"
+          },
+          {
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/kompascom/status/1758318606172250346/likes",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/kompascom/status/1758318606172250346/retweets",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/kompascom/status/1758318606172250346/retweets/with_comments",
+            "userinteractioncount": "0"
+          },
+          {
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/kompascom/status/1758318606172250346",
+            "userinteractioncount": "0"
+          }
+        ],
+        "metatags": {
+          "alAndroidAppName": "X",
+          "alAndroidPackage": "com.twitter.android",
+          "alAndroidUrl": "twitter://status?id=1758318606172250346",
+          "alIosAppName": "X",
+          "alIosAppStoreId": "333903271",
+          "alIosUrl": "twitter://status?id=1758318606172250346",
+          "appleMobileWebAppStatusBarStyle": "white",
+          "appleMobileWebAppTitle": "Twitter",
+          "facebookDomainVerification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+          "fbAppId": "2231777543",
+          "mobileWebAppCapable": "yes",
+          "ogDescription": "Saat melalui turunan Flyover Cengkareng, Truk gagal mengerem dan langsung menabrak empat mobil di depannya. https://t.co/erCGSb1eHR",
+          "ogImage": "https://pbs.twimg.com/profile_images/1577144849437888514/d9x3nKN8_200x200.jpg",
+          "ogSiteName": "X (formerly Twitter)",
+          "ogTitle": "Kompas.com (@kompascom) on X",
+          "ogType": "article",
+          "ogUrl": "https://twitter.com/kompascom/status/1758318606172250346",
+          "themeColor": "#FFFFFF",
+          "title": "Kompas.com (@kompascom) on X",
+          "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover"
+        },
+        "person": {
+          "additionalname": "kompascom",
+          "givenname": "Kompas.com",
+          "identifier": "23343960"
+        },
+        "socialmediaposting": {
+          "articlebody": "Saat melalui turunan Flyover Cengkareng, Truk gagal mengerem dan langsung menabrak empat mobil di depannya.Translate post",
+          "commentcount": "0",
+          "datecreated": "2024-02-16T02:33:18.000Z",
+          "datepublished": "2024-02-16T02:33:18.000Z",
+          "identifier": "1758318606172250346",
+          "mainentityofpage": "https://twitter.com/kompascom/status/1758318606172250346",
+          "position": "1",
+          "url": "https://twitter.com/kompascom/status/1758318606172250346"
+        }
+      },
+      "title": "<b>Kompas.com</b> on X: &quot;Saat melalui turunan Flyover Cengkareng, Truk ...",
+      "titleNoFormatting": "Kompas.com on X: \"Saat melalui turunan Flyover Cengkareng, Truk ...",
+      "unescapedUrl": "https://twitter.com/kompascom/status/1758318606172250346",
+      "url": "https://twitter.com/kompascom/status/1758318606172250346",
+      "visibleUrl": "twitter.com"
+    }
+  ]
+}
